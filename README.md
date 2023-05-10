@@ -1,0 +1,1 @@
+This is the code repository for the paper tilted "A Critical Analysis of the Limitation of Deep Learning based 3D Dental Mesh Segmentation Methods in Segmenting Partial Scans". **accepted at IEEE EMBC 2023**
